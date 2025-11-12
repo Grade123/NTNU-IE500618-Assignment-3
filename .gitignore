@@ -1,1 +1,3 @@
 .venv
+.vscode
+my_fashion_mnist
